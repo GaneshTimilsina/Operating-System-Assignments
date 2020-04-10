@@ -1,5 +1,6 @@
 # Operating-System-Assignments
 Operating System Assignments on some basic questions
+
 6. Suppose that the following processes arrive for execution at the times indicated. Each
 process will run for the amount of time listed. In answering the questions, use
 nonpreemptive scheduling, and base all decisions on the information you have at the time
