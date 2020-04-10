@@ -51,6 +51,8 @@ int main()
 	pthread_join(th3,NULL);
 	pthread_join(th5,NULL);
 	pthread_join(th4,NULL);
+ 
+ 	printf("Thank You!!");
 }
 
 void * mouse_fun()
