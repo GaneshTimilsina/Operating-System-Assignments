@@ -8,11 +8,11 @@ the decision must be made.
 
 Process Arrival Time Burst Time
 
-P1 0.0 8
+P1      0.0            8
 
-P2 0.4 4
+P2      0.4            4
 
-P3 1.0 1
+P3      1.0            1
 
 a. What is the average turnaround time for these processes with the FCFS scheduling
 algorithm?
