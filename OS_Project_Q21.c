@@ -1,5 +1,3 @@
-//question no. 21
-
 #include<unistd.h>
 #include<stdio.h>
 #include<stdlib.h>
